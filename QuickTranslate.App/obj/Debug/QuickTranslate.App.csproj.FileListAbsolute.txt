@@ -1,0 +1,74 @@
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.App.exe.config
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.App.exe
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.App.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Data.Contracts.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Data.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Entities.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Data.Contracts.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Data.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Entities.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\MainWindow.g.cs
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\App.g.cs
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App_MarkupCompile.cache
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App_MarkupCompile.lref
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\App.baml
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\MainWindow.baml
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.g.resources
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.Properties.Resources.resources
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.exe
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.pdb
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.App.exe.config
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.App.exe
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.App.pdb
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Data.Contracts.dll
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Data.dll
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Entities.dll
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Data.Contracts.pdb
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Data.pdb
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\QuickTranslate.Entities.pdb
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.csprojResolveAssemblyReference.cache
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\MainWindow.g.cs
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\App.g.cs
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App_MarkupCompile.cache
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App_MarkupCompile.lref
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\App.baml
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\MainWindow.baml
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.g.resources
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.Properties.Resources.resources
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.csproj.GenerateResource.Cache
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.exe
+C:\Users\Arturas\Documents\Visual Studio 2017\Projects\QuickTranslate\QuickTranslate\QuickTranslate.App\obj\Debug\QuickTranslate.App.pdb

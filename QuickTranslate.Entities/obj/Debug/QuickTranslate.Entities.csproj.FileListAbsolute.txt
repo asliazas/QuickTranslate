@@ -1,0 +1,5 @@
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Entities\bin\Debug\QuickTranslate.Entities.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Entities\bin\Debug\QuickTranslate.Entities.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Entities\obj\Debug\QuickTranslate.Entities.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Entities\obj\Debug\QuickTranslate.Entities.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Entities\obj\Debug\QuickTranslate.Entities.pdb

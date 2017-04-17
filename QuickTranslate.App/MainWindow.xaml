@@ -1,0 +1,30 @@
+﻿<Window x:Class="QuickTranslate.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuickTranslate.App"      
+        mc:Ignorable="d"
+        Title="Quick Translate" Height="350" Width="525" Closing="Window_Closing"  Background="LightGray" 
+        Icon="Resources/favicon.ico"
+        DataContext="{Binding Main, Source={StaticResource Locator}}">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBox Grid.Row="0" Text="{Binding Text, Mode=TwoWay}" x:Name="Text" TextWrapping="Wrap" AcceptsReturn="True" VerticalAlignment="Stretch" />
+        <TextBox Grid.Row="2" Text="{Binding TranslatedText, Mode=OneWay}" x:Name="Translation" TextWrapping="Wrap" IsReadOnly="True" AcceptsReturn="True" VerticalAlignment="Stretch"/>
+        <Rectangle HorizontalAlignment="Center" Height="40" Grid.Row="1" VerticalAlignment="Top" Width="497"/>
+        <ComboBox x:Name="fromComboBox" ItemsSource="{Binding FromLanguages}" SelectedItem="{Binding SelectedFromLanguage,Mode=TwoWay}" DisplayMemberPath="Name" HorizontalAlignment="Left" Margin="0,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="150" RenderTransformOrigin="0.481,2.096"/>
+        <ComboBox x:Name="toComboBox" ItemsSource="{Binding ToLanguages}" SelectedItem="{Binding SelectedToLanguage,Mode=TwoWay}" DisplayMemberPath="Name" HorizontalAlignment="Left" Margin="201,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="150"/>
+        <Button x:Name="translateBtn" Command="{Binding TranslateCommand}" Content="Translate" HorizontalAlignment="Left" Margin="356,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Height="22"/>
+        <Button Command="{Binding SwapCommand}" IsEnabled="{Binding CanSwap}"  Padding="0" BorderThickness="0" Background="Transparent" HorizontalAlignment="Left" Margin="159,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="32" RenderTransformOrigin="-0.077,0.67" Height="22">
+            <Image Source="Resources/swap.png" ></Image>
+        </Button>
+
+
+    </Grid>
+</Window>

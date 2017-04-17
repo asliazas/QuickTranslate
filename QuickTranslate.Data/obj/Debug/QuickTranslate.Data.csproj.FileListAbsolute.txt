@@ -1,0 +1,11 @@
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\bin\Debug\QuickTranslate.Data.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\bin\Debug\QuickTranslate.Data.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\bin\Debug\QuickTranslate.Data.Contracts.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\bin\Debug\QuickTranslate.Entities.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\bin\Debug\QuickTranslate.Data.Contracts.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\bin\Debug\QuickTranslate.Entities.pdb
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\obj\Debug\QuickTranslate.Data.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\obj\Debug\QuickTranslate.Data.dll
+C:\Users\artur\Desktop\QuickTranslate\QuickTranslate.Data\obj\Debug\QuickTranslate.Data.pdb
