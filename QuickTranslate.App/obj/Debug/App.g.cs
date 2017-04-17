@@ -52,7 +52,7 @@ namespace QuickTranslate.App {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/QuickTranslate.App;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/QuickTranslate;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
